@@ -34,3 +34,13 @@ One of the main challenges I faced was integrating the API in some places due to
 
 ### 10. Testing and Debugging
 I thoroughly tested the application to ensure all features worked as expected. Debugging was an ongoing process, and I used various tools and techniques to identify and fix issues.
+
+
+![Screenshot 2024-08-06 195542](https://github.com/user-attachments/assets/7a295044-5e8c-4b62-bea4-97158b3fd267)
+![Screenshot 2024-08-06 195633](https://github.com/user-attachments/assets/4f271c7e-b8e3-45c3-91d5-0695ff964616)
+![Screenshot 2024-08-06 195702](https://github.com/user-attachments/assets/96d63519-13b7-4b71-9948-1013b1e02a5f)
+![Screenshot 2024-08-06 195746](https://github.com/user-attachments/assets/c96d0dbf-d95c-4e01-b447-d0f5be25da70)
+![Screenshot 2024-08-06 195935](https://github.com/user-attachments/assets/00ada6f3-72ab-4214-ba39-c914a9864590)
+![Screenshot 2024-08-06 200004](https://github.com/user-attachments/assets/cdb1ccf6-b6dc-4657-8a23-e6f5b3aa0316)
+![Screenshot 2024-08-06 200102](https://github.com/user-attachments/assets/6612a9ee-c657-43a5-b51b-e768afcee724)
+![Screenshot 2024-08-06 200117](https://github.com/user-attachments/assets/4bec73f5-b5f8-4b39-ade7-a9e7ae84d6d1)
